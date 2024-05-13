@@ -9,8 +9,6 @@ Download `TerminateApplication.swift` and add the script to your project.
 
 ## Usage
 
-Simply add `.titleBar()` as a view modifier to a view to get the title bar behavior. As of that moment the user is able to move the window of your app by dragging on that view. When the user double clicks on it, the window will either zoom or be minimized depending on its user preferences.
-
 1. We declare an `terminateApplication` environment value.
 2. Then, we can call this wherever we want to terminate the application.
 
