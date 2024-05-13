@@ -9,7 +9,7 @@ Download `TerminateApplication.swift` and add the script to your project.
 
 ## Usage
 
-1. We declare an `terminateApplication` environment value.
+1. We declare a `terminateApplication` environment value.
 2. Then, we can call this wherever we want to terminate the application.
 
 ```swift
